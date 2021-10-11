@@ -1,0 +1,34 @@
+.logo
+{
+    height: 20px;
+    width: 200px;
+}
+#slika
+{
+    height: 350px;
+    position: relative;
+}
+#kartickaVoved{
+    position:absolute;
+    margin-top: 200px;
+}
+#zapocni
+{
+    margin-top: 25px;
+    
+}
+#id2{
+    margin-top: 254px;
+    z-index: auto;
+    background: white;
+}
+#id3{
+    margin-top: 358px;
+    z-index: auto;
+    background: white;
+    margin-bottom: 0px;
+}
+#slikanavBar{
+    width: 1500px;
+    height: 100px;
+}
